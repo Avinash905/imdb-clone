@@ -1,4 +1,4 @@
-## IMDb Clone 🪙
+## IMDb Clone 🍿
 
 👉[Click here](https://imdb-clone-main.vercel.app/) to check out the app.
 
